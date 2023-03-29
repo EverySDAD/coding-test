@@ -3,4 +3,5 @@ go 1.19
 use (
 	./programmers/level/one/2016year/wando
 	./programmers/level/one/centerChar/wando
+	./programmers/level/one/divideArray/wando
 )
