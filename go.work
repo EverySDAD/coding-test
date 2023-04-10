@@ -4,5 +4,6 @@ use (
 	./programmers/level/one/2016year/wando
 	./programmers/level/one/centerChar/wando
 	./programmers/level/one/divideArray/wando
+	./programmers/level/one/stringSort/wando
 	./programmers/level/one/sumTwoInteger/wando
 )
