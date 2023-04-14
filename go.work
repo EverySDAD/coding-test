@@ -5,6 +5,7 @@ use (
 	./programmers/level/one/basicString/wando
 	./programmers/level/one/centerChar/wando
 	./programmers/level/one/divideArray/wando
+	./programmers/level/one/findKIM/wando
 	./programmers/level/one/stringDescendation/wando
 	./programmers/level/one/stringSort/wando
 	./programmers/level/one/sumTwoInteger/wando
