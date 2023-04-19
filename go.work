@@ -7,5 +7,6 @@ use (
 	./programmers/level/one/divideArray/wando
 	./programmers/level/one/stringDescendation/wando
 	./programmers/level/one/stringSort/wando
+	./programmers/level/one/subag/wando
 	./programmers/level/one/sumTwoInteger/wando
 )
