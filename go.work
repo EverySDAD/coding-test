@@ -11,5 +11,6 @@ use (
 	./programmers/level/one/stringInteger/wando
 	./programmers/level/one/stringSort/wando
 	./programmers/level/one/subag/wando
+	./programmers/level/one/sumOfDivisors/wando
 	./programmers/level/one/sumTwoInteger/wando
 )
